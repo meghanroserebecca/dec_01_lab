@@ -1,5 +1,7 @@
-body{
-
+main{
+height: 500px;
+ width: 500px;
+ display: block;
 }
 
 p{
@@ -18,7 +20,9 @@ section{
 
 }
 
-table{
+#ConversionCalculator{
+  height: 100px;
+  width: 100px;
 
 }
 
